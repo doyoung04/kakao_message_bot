@@ -1,3 +1,4 @@
 # kakao_message_bot
 
-https://dykm.tistory.com/manage/newpost/23?type=post&returnURL=https%3A%2F%2Fdykm.tistory.com%2F23
+사용법은 아래 포스팅을 참고
+https://dykm.tistory.com/
