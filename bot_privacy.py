@@ -2,9 +2,9 @@ import requests
 import json
 
 params = {
-    'REST_API_key': 'ace6660b9d1e17212cc5e4d5c8bf7910',
+    'REST_API_key': 'key',
     'Redirect_URI': 'https://example.com/oauth',
-    'code': 'GUYCuzZE6_iPLLDh1u3n6LBHgpf4EFiK0mT-VdlAlIt7nq5jop5bV3TAd4e4vIogBc6Y1Qo9dVoAAAGGebEGqQ'
+    'code': 'code'
 }
 
 url = 'https://kauth.kakao.com/oauth/token'
